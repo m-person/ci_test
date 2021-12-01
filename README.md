@@ -1,3 +1,2 @@
 # ci_test
-
-branch master
+branch dev
